@@ -195,7 +195,7 @@ body {
 }
 
 .footer_div {
-    background-image: url(./assets/mobile/image-footer.jpg);
+    background-image: url(./image-footer.jpg);
     position: relative;
     background-repeat: no-repeat;
     background-size: cover;
@@ -306,7 +306,7 @@ body {
     }
 
     .footer_div {
-        background-image: url(./assets/tablet/image-footer.jpg);
+        background-image: url(./tablet/image-footer.jpg);
         gap: 32px;
         padding: 88px 64px 56px 64px;
     }
@@ -373,7 +373,7 @@ body {
     }
 
     .footer_div {
-        background-image: url(./assets/desktop/image-footer.jpg);
+        background-image: url(./desktop/image-footer.jpg);
         display: grid;
         grid-template-columns: 1.2fr 1.2fr 0.8fr;
         padding: 96px 144px 64px 144px;
